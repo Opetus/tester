@@ -1,0 +1,34 @@
+//git
+
+git add .  //adds all files to the git file
+git commit -m "first commit"
+git remote add origin https://github.com/Opetus/Template.git
+git push -u origin master
+
+See also https://confluence.atlassian.com/stash/basic-git-commands-278071958.html#notfound
+
+//To get version control
+
+https://github.com/gruntjs/grunt-contrib-uglify
+https://github.com/gruntjs/grunt-contrib-compass
+https://github.com/gruntjs/grunt-contrib-watch
+
+//to find live reload page in Brackets
+
+Use the same folder view as the project was opened
+    i.e
+        Open project folder 'test'
+        index found @ 'code/index.html'
+        you would enter 'http://localhost/test'
+        then put in full address in the index.html
+            i.e.
+                'http://localhost/test/code/index.html/livereload.js'
+
+//command prompt
+
+npm install
+grunt
+
+//Mixins
+
+copy from mixins folder to sass folder

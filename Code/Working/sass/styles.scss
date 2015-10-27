@@ -1,0 +1,9 @@
+@import "compass"; //install compass into the css
+@import "compass/reset"; //part of the compass modules
+@import "susy"; //installs susy into the css
+
+@import "variables"; //1 -- All the variables
+@import "mixins"; //2 -- all the mixins
+@import "base"; //3 -- 
+@import "layout"; //4 -- All the actual loayout
+@import "modules"; //5 -- the different modules
